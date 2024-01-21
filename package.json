@@ -1,0 +1,17 @@
+{
+  "name": "slack-extension-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^6.11.0",
+    "axios": "^1.6.3",
+    "express": "^4.18.2"
+  }
+}
